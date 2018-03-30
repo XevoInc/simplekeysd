@@ -1,6 +1,13 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package": [],
+	"package": [
+		{
+			"checksumSHA1": "a7C1zx1v+c0lcJQYTYs5vDWOqBo=",
+			"path": "github.com/aws/aws-sdk-go-v2",
+			"revision": "4c2bc2075021887b347698b70405364506f41d15",
+			"revisionTime": "2018-03-20T23:50:34Z"
+		}
+	],
 	"rootPath": "github.com/XevoInc/simplekeysd"
 }
